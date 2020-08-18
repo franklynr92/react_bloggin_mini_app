@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-// import BlogPost from './BlogPost';
+import BlogPost from './BlogPost';
 
 
 
@@ -22,7 +22,7 @@ class App extends Component {
         >
           Learn React
         </a> */}
-      {/* <BlogPost /> */}
+      <BlogPost />
         
       </header>
     </div>
