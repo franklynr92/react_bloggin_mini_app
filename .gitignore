@@ -6,7 +6,7 @@
 .pnp.js
 
 src/Comment.js
-src/BlogContent.js
+
 
 # testing
 /coverage
